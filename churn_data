@@ -1,0 +1,6 @@
+customerID	tenure	MonthlyCharges	TotalCharges	Contract	PaymentMethod	Churn
+1001	5	70.35	350.75	Month-to-month	Electronic check	Yes
+1002	24	56.95	1366.8	One year	Mailed check	No
+1003	12	42.3	525.6	Month-to-month	Bank transfer	Yes
+1004	36	89.5	3222	Two year	Credit card	No
+1005	2	29.75	59.5	Month-to-month	Electronic check	Yes
